@@ -45,7 +45,5 @@ data: The actual data
      
 t: Timestamps in ms.
 
-
-
-![](/home/joel/Downloads/ES_EKF-ABSTRACT.drawio.pdf.jpg)
+<img src="https://drive.google.com/drive/my-drive"/>
 
